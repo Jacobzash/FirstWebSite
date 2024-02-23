@@ -1,0 +1,36 @@
+ h1{
+       text-align:left;
+       background-color:#FF7722;
+       font-size:50px;
+    }
+    article{
+        background-color:white;
+        padding:25px;
+        border-radius:10px;
+        margin:20px;
+    }
+    main{
+        background-color:#FF8674;
+    }
+    h2{
+        color:#006A4E;
+        text-align:right;
+    }
+    
+    p{
+        font-size:20px;
+    }
+    
+    #imagen1{
+        float:right;
+        
+    }
+    
+    .publicado{
+        color:#FF7722}
+        
+        
+        
+        
+    }
+    
